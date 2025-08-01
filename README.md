@@ -1,7 +1,12 @@
 ## USE WITH PRECAUTIONS 
 
-if you want to buy sosovalue referral you can dm me on tg @mitvaq 
-price 1k referral for 10$ 
+ referral for sell
+
+2500 ref for 5$
+10k for 15$
+25k for 30$
+50k for 50$
+100k for 90$
 ## DONATE ##
 
  Bitcoin
