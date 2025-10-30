@@ -58,7 +58,7 @@ def get_random_proxy():
 
 def create_account(captcha_token, password, email, proxy):
     headers = {
-        'Host': 'gw.sosovalue.com',
+        'Host': 'm.sosovalue.com',
         'sec-ch-ua-platform': 'Android',
         'user-device': 'Chrome/131.0.6778.260#Android/15',
         'accept-language': 'en',
