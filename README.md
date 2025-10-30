@@ -1,16 +1,8 @@
 ## USE WITH PRECAUTIONS 
 
- referral for sell
+if want to buy referral Dm @mitvaq on tg - bot, v1 & v2 available for cheap price
 
-2500 ref for 5$
-
-10k for 15$
-
-25k for 30$
-
-50k for 50$
-
-100k for 90$
+paid script available for 30$ (Working letest update)
 
 ## DONATE ##
 
