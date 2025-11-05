@@ -8,11 +8,10 @@ paid script available for 150$ without tasker (Working letest update)
 
 https://pay.oxapay.com/18472976
 
-```
+
 ## installation 
 
 ```
-
 git clone https://github.com/blacksmith69-glitch/Sosovalue
 ```
 ```
