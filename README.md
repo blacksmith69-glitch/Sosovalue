@@ -19,9 +19,9 @@ pip install -r requirment.txt
 ```
 Sosovalue/
 │── proxy.txt
-│── accounts.txt
-│── start.sh
-│── main.py
+│── app.pu
+│── launcher.py
+│── mail.py
 │── main_bot.cpython-312.so
 ```
 
