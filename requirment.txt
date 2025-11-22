@@ -1,0 +1,9 @@
+requests
+pyopenssl
+cryptography
+python-dotenv
+bs4
+fake_useragent
+pysocks
+flask
+names
