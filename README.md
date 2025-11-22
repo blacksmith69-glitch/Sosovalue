@@ -18,11 +18,11 @@ pip install -r requirment.txt
 ## 📁 Folder Structure
 ```
 Sosovalue/
-│── proxies.txt
+│── proxy.txt
 │── accounts.txt
 │── start.sh
 │── main.py
-│── ...
+│── main_bot.cpython-312.so
 ```
 
 > ⚠ **Do NOT change any file or folder names.**
