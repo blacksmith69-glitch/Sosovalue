@@ -98,7 +98,7 @@ python launcher.py
 ---
 
 
-## Need key? Choose plan you want
+## Need Licence? Choose plan you want
 🔥 Sosovalue Licence 🔥
 
 🟢 Trial – 1 day | $0.50
