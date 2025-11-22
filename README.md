@@ -19,7 +19,7 @@ pip install -r requirment.txt
 ```
 Sosovalue/
 │── proxy.txt
-│── app.pu
+│── app.py
 │── launcher.py
 │── mail.py
 │── main_bot.cpython-312.so
