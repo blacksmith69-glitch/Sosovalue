@@ -97,6 +97,35 @@ python launcher.py
   and you are good to go
 ---
 
+
+## Need key? Choose plan you want
+🔥 Sosovalue Licence 🔥
+
+🟢 Trial – 1 day | $0.50
+✅ Full system test
+⚡ Max Capacity: 50/day
+
+
+🔵 Starter – 3 days | $1.50
+✅ Full access
+⚡ Max Capacity: 300/day
+
+🟣 Pro – 7 days | $5
+✅ Priority access, optimized
+⚡ Max Capacity: 500/day
+
+🟠 Ultimate – 14 days | $12
+✅ Full power, auto usage
+⚡ Max Capacity: 600/day
+
+🔥 Lifetime – Unlimited | $99
+✅ Lifetime updates & VIP support
+⚡ Daily Max Capacity: 600/day
+
+🛡️ Refund if instructions followed & key doesn’t deliver
+
+Telegram - @BBlacksmith
+
 ## ⚠ Important Notes
 - Do **NOT** rename any files.
 - Do **NOT** modify folder structure.
