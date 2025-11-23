@@ -120,8 +120,11 @@ python launcher.py
 
 🔥 Lifetime – Unlimited | $99
 ✅ Lifetime updates & VIP support
-⚡ Daily Max Capacity: 600/day
+⚡ Daily Max Capacity: 2000/day
 
+🦀 Custom plans Available 
+✅ 2407 Support 
+⚡ As per need
 🛡️ Refund if instructions followed & key doesn’t deliver
 
 Telegram - @BBlacksmith
