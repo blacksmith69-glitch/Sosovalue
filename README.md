@@ -98,29 +98,9 @@ python launcher.py
 ---
 
 
-## Need Licence? Choose plan you want
-🔥 Sosovalue Licence 🔥
+## Need Licence? 
+check :- https://t.me/cryptowitharyanog/594
 
-🟢 Trial – 1 day | $0.50
-✅ Full system test
-⚡ Max Capacity: 50/day
-
-
-🔵 Starter – 3 days | $1.50
-✅ Full access
-⚡ Max Capacity: 300/day
-
-🟣 Pro – 7 days | $5
-✅ Priority access, optimized
-⚡ Max Capacity: 500/day
-
-🟠 Ultimate – 14 days | $12
-✅ Full power, auto usage
-⚡ Max Capacity: 600/day
-
-🔥 Lifetime – Unlimited | $99
-✅ Lifetime updates & VIP support
-⚡ Daily Max Capacity: 2000/day
 
 🦀 Custom plans Available 
 ✅ 2407 Support 
