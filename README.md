@@ -3,10 +3,17 @@ This tool is built for educational and personal automation purposes only.
 
 ---
 # 🔥 Biggest wholesaler in market
-if your looking to buy 
-sosovalue v0 referral
-v1 referral or rebate exp 
-just text :- https://t.me/BBlacksmith 
+Looking to buy:
+
+V0 referrals
+
+V1 referrals
+
+Rebate EXP
+
+
+Message me on Telegram:
+👉 https://t.me/BBlacksmith
 
 ## 📦 Requirements
 Make sure you have **Python 3.10+** installed.
