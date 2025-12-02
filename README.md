@@ -1,4 +1,4 @@
-# 🚀 SoSoValue Referral Tool
+# 🚀 SoSoValue Auto Referral Tool
 This tool is built for educational and personal automation purposes only.
 
 ---
@@ -45,12 +45,12 @@ Everything is connected internally and renaming will break functionality.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/blacksmith69-glitch/Sosovalue
+git clone https://github.com/blacksmith69-glitch/Sosovalue-autoref 
 ```
 
 ### 2️⃣ Move into project folder
 ```bash
-cd Sosovalue
+cd Sosovalue-autoref 
 ```
 
 ### 3️⃣ Install requirements
